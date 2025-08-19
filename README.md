@@ -18,7 +18,9 @@ It standardizes dates, trims whitespace, enforces numeric columns, removes inval
 
 ## Installation
 git clone https://github.com/razvande1395/sales-data-cleaning.git
+
 cd sales-data-cleaning
+
 pip install -r requirements.txt
 
 ## Usage
