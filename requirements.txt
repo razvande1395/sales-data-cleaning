@@ -1,0 +1,3 @@
+## Requirements
+python 3.12.1 (version used for writing the script, can work on earlier versions)
+pandas
